@@ -1,0 +1,4 @@
+# No external pip dependencies
+# Uses built-in tkinter
+# On Linux you may need:
+# sudo apt install python3-tk
